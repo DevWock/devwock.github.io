@@ -1,0 +1,31 @@
+- name: 한국렌탈 Windows Diskless Server
+  descr: "PC방용 스토리지 가상화 시스템 구축 (C#, PowerShell, iSCSI)"
+
+- name: 합동참모본부 ISMS 구축
+  descr: "합동참모본부 PC 접근 제어 클라이언트 (WPF)"
+
+- name: 금융투자협회 사용자 통합 인증 솔루션
+  descr: "브라우저 공인인증서 로그인 시스템 구축 (JSP)"
+
+- name: LGU+ 스마트 플랜트
+  descr: "관리자 웹, 하이브리드 모바일 웹, API 및 Push 배치 구현 (Java, Spring)"
+
+- name: 현대 모비스 MDM
+  descr: "MDM 관리자 웹 및 API, 배치 구현 (Java, Spring MVC, SQL Server)"
+
+- name: 한국전력 Powerbot
+  descr: "키오스크 제작 (UWP)"
+
+- name: 현대로템 MDM
+  descr: "MDM 관리자 웹 및 API, 배치 구현 (Java, Spring MVC, SQL Server)"
+  
+- name: 국토교통연구원 노후 교량 실증 DB 시스템 구축
+  descr: "BabylonJS를 이용한 웹 3D 스캔 데이터 뷰어 구축 (JSP, JS, BabylonJS)"
+
+- name: 티머니 온다택시 플랫폼센터 구축
+  descr: "티머니 결제 시스템 연동 (Java, Spring MVC, Spring Batch)"
+
+- name: Pulverizer
+  descr: "트이타 장기 미접속 블락 매니저(예정) (WPF)"
+  image: pong.png
+  github: https://github.com/renyuanz/leonids

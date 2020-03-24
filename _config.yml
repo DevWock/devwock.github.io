@@ -1,0 +1,78 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Devwocky
+email: devwock@gmail.com
+description: Twas brillig, and the slithy devs
+url: https://devwock.github.io
+keywords: ["blog", "developer"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Seoul
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: devwock
+  avatar: leonids-logo.png
+  job: "Developer"
+  bio: "Twas brillig, and the slithy devs"
+  email: "devwock@gmail.com"
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: "devwock"
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
+
+#
+###################################
+# User Configuration
+####################################
+#
+img: "https://raw.githubusercontent.com/deadcatssociety/images/master/img"

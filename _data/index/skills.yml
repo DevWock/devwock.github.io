@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: C#, UWP, WPF , PowerShell, Python, Java
+percentage: 80, 70, 70, 30, 30, 60
