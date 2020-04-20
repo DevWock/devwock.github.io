@@ -13,16 +13,7 @@ comments: true
 * 목차
 {:toc}
 
-OS: macOS Catalina 10.15.3 19D76 x86_64
-Kernel: x86_64 Darwin 19.3.0
-OS family: Unix, Macintosh
-Kernel type: Hybrid
-  * XNU 커널 위에서 동작
-  * XNU 커널은 마이크로커널인 OSFMK와 모노리딕 커널인 FreeBSD의 하이브리드
-  * https://en.wikipedia.org/wiki/XNU
-  * https://en.wikipedia.org/wiki/Architecture_of_macOS
-Default user interface: Aqua
-Window Manager: Quartz Compositor
+
 
 운영체제 유형:
 하이브리드.
