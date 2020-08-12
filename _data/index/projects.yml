@@ -10,9 +10,6 @@
 - name: LGU+ 스마트 플랜트
   descr: "관리자 웹, 하이브리드 모바일 웹, API 및 Push 배치 구현 (Java, Spring)"
 
-- name: 현대 모비스 MDM
-  descr: "MDM 관리자 웹 및 API, 배치 구현 (Java, Spring MVC, SQL Server)"
-
 - name: 한국전력 Powerbot
   descr: "키오스크 제작 (UWP)"
 
