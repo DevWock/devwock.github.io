@@ -13,9 +13,6 @@
 - name: 한국전력 Powerbot
   descr: "키오스크 제작 (UWP)"
 
-- name: 현대로템 MDM
-  descr: "MDM 관리자 웹 및 API, 배치 구현 (Java, Spring MVC, SQL Server)"
-  
 - name: 국토교통연구원 노후 교량 실증 DB 시스템 구축
   descr: "BabylonJS를 이용한 웹 3D 스캔 데이터 뷰어 구축 (JSP, JS, BabylonJS)"
 
